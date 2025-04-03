@@ -1,2 +1,3 @@
 # fuzzy-happiness
-My First Repository
+My First Repository 
+Author - Ayush
