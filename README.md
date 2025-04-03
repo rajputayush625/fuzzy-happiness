@@ -1,4 +1,4 @@
 # fuzzy-happiness
 My First Repository 
 <br>
-Author - Ayush
+Author - Ayush Kumar
